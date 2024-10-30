@@ -23,7 +23,7 @@ function Hero() {
         <Boton 
           className="w-[201px] h-[51px] rounded-[5px] font-['system-ui'] text-[18px] font-bold text-white bg-[#fa057b] 
           border-2 hover:bg-[#a682a4] hover:text-white hover:border-none ml-6"
-          children={"Ver cursos online"}
+          children={"Beneficios de agencia"}
         />
       </div>
       <div>
